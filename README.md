@@ -1,11 +1,11 @@
-# chapter-project-repository-template
+# ${Omdena \space Munich \space Chapter}$
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# ${Deep \space Fakes \space Image \space Detection}$
 
 
-## Contribution Guidelines
+## ${Contribution \space Guidelines}$
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
     - Task Folder Naming Convention : _task-n-taskname.(n is the task number)_  ex: task-1-data-analysis, task-2-model-deployment etc.
@@ -14,11 +14,12 @@ Use this Repository as a template for creating Local Chapter Repositories
 - Make sure your File names(jupyter notebooks, python files, data sheet file names etc) has proper naming to help others in easily identifing them.
 - Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion. 
 
-## Project Structure
+## ${Project \space Structure}$
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers/collaborators using this project.
-    ├── original           <- Original Source Code of the challenge hosted by omdena. Can be used as a reference code for the current project goal.
+    ├── original           <- Original Source Code of the challenge hosted by omdena. Can be used
+    |                         as a reference code for the current project goal.
     │ 
     │
     ├── reports            <- Folder containing the final reports/results of this project
@@ -40,7 +41,7 @@ Use this Repository as a template for creating Local Chapter Repositories
         └── results        <- Folder to store Final analysis and modelling results and code.
 --------
 
-## Folder Overview
+## ${Folder \space Overview}$
 
 - Original          - Folder Containing old/completed Omdena challenge code.
 - Reports           - Folder to store all Final Reports of this project
