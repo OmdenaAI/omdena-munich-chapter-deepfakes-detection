@@ -1,0 +1,1 @@
+This folder contains only processed data. DO not add any raw or cleaned data or any other data here.
