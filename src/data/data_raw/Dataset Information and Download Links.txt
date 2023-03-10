@@ -1,0 +1,25 @@
+Image DeepFake Detection Challenge Dataset Information and Required Links for download
+
+Due to file size storage constraint on Github, curretnly, we can only provide links to the required data sources.
+Team members can download them (both Training and Test data) from these links.
+We are not using Google Drive for now as it also has 15 GB storage constraint.
+
+Meanwhile, we will try to figure out a solution.
+
+
+Training Dataset (both Real and Fake) can be download from below link under the section "Release of full training set" (TASK 1):
+Link :- https://iplab.dmi.unict.it/Deepfakechallenge/#importantdates
+
+Training Files to download: 
+Real Images:- 0-CelebA.zip and 0-FFHQ.zip, 
+Fake Images:- 1-ATTGAN.zip, 1-GDWCT.zip, 1-StarGAN.zip, 1-STYLEGAN.zip, and 1-STYLEGAN2.zip
+
+
+Test Dataset (Combined Real and Fake Images) along with their true class labels can be download from below link 
+under the section "Release of test set and opening of the submission system with ladder score computed on a portion of the test-set" (TASK 1):
+Link:- https://iplab.dmi.unict.it/Deepfakechallenge/#importantdates
+
+
+Test Data Files to download:-
+Images Data:- test-task1.zip
+Images True Labels:- https://iplab.dmi.unict.it/deepfakechallenge/test/label-task1.txt
