@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 src/data/data_raw/Train_data_raw/Real/0-FFHQ.zip
+*.zip
+src/data/data_raw/Dataset Information and Download Links.txt
