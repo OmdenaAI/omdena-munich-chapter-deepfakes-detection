@@ -1,6 +1,6 @@
 Image DeepFake Detection Challenge Dataset Information and Required Links for download
 
-Due to file size storage constraint on Github, curretnly, we can only provide links to the required data sources.
+Due to file size storage constraint on Github, currently, we can only provide links to the required data sources.
 Team members can download them (both Training and Test data) from these links.
 We are not using Google Drive for now as it also has 15 GB storage constraint.
 
