@@ -12,7 +12,7 @@ and every model and then provide the best results possible.
 | 1. | 19-03-2023 | Vishu Kalier | Tensorflow Hub | In Progress :white_check_mark: | Not yet evaluated |
 | 2. | 19-03-2023 | Imane E. M.  | CNN EfficientNet | In Progress :white_check_mark: | Not yet evaluated |
 | 3. | 19-03-2023 | Mussie Berhane | CNN AlexNet | In Progress :white_check_mark: | Not yet evaluated |
-| | | | | | |
+| 4. | 18-03-2023 | Abdelrahman Youssry| EfficientNet & ImageNet| In Progress:white_check_mark: | Not yet evaluated |
 
 
 In case of any doubts please ask the task leader, ***Vishu Kalier***.
