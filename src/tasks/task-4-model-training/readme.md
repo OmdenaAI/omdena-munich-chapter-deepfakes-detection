@@ -9,7 +9,7 @@ and every model and then provide the best results possible.
 
 | ***Serial No.*** | ***Date Started*** | ***Name*** | ***Model Name*** | ***Work Status*** | ***Accuracy*** |
 |-|-|-|-|-|-|
-| 1. | Vishu Kalier | 19-03-2023 | Tensorflow Hub | In Progress :white_check_mark: | Not yet evaluated |
+| 1. | 19-03-2023 | Vishu Kalier | Tensorflow Hub | In Progress :white_check_mark: | Not yet evaluated |
 | | | | | | |
 
 
