@@ -17,5 +17,4 @@ In case of any doubts please ask the task leader, ***Vishu Kalier***.
 
 
 ## ${Task \space Leader}$
-Task Leader
 ***Vishu Kalier***
