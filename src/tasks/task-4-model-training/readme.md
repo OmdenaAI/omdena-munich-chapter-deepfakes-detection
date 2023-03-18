@@ -7,10 +7,10 @@ and every model and then provide the best results possible.
 
 ## ${Task \space Table}$
 
-| ***Serial No.*** | ***Name*** | ***Model Name*** | ***Work Status*** | ***Accuracy*** |
-|-|-|-|-|-|
-| 1. | Vishu Kalier | Tensorflow Hub | In Progress :white_check_mark: | Not yet evaluated |
-| | | | | |
+| ***Serial No.*** | ***Date Started*** | ***Name*** | ***Model Name*** | ***Work Status*** | ***Accuracy*** |
+|-|-|-|-|-|-|
+| 1. | Vishu Kalier | 19-03-2023 | Tensorflow Hub | In Progress :white_check_mark: | Not yet evaluated |
+| | | | | | |
 
 
 In case of any doubts please ask the task leader, ***Vishu Kalier***.
