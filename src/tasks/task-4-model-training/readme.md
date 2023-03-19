@@ -15,6 +15,7 @@ and every model and then provide the best results possible.
 | 4. | 18-03-2023 | Abdelrahman Youssry| EfficientNet & ImageNet| In Progress:white_check_mark: | Not yet evaluated |
 | 5. | 18-03-2023 | Akash Kundu | VGG & ImageNet | In Progress :white_check_mark: | Not yet evaluated |
 | 6. | 19-03-2023 | Qutaiba Ahmed Ansari | ResNet | In Progress :white_check_mark: | Not yet evaluated |
+| 7. | 19-03-2023 | Lee Galili | CNN | In Progress :white_check_mark: | Not yet evaluated |
 
 
 In case of any doubts please ask the task leader, ***Vishu Kalier***.
