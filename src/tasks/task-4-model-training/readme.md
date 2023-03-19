@@ -18,7 +18,7 @@ and every model and then provide the best results possible.
 | 7. | 19-03-2023 | Lee Galili | CNN | In Progress :white_check_mark: | Not yet evaluated |
 | 8. | 19-03-2023 |Reem Abdel-Salam | CNN MobilnetV3-ImageNet  | In Progress :white_check_mark: | Not yet evaluated |
 | 9. | 19-03-2023 |Rishabh Sabharwal | Dense CNN and ResNet/XceptionNet  | In Progress :white_check_mark: | Not yet evaluated |
-
+| 10. | 19-03-2023 |Saurav Suman | InceptionResNetV2  | In Progress :white_check_mark: | Not yet evaluated |
 
 In case of any doubts please ask the task leader, ***Vishu Kalier***.
 
