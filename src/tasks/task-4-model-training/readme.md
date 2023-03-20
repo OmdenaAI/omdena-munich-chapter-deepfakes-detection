@@ -20,7 +20,7 @@ and every model and then provide the best results possible.
 | 9. | 19-03-2023 |Rishabh Sabharwal | Dense CNN and ResNet/XceptionNet  | In Progress :white_check_mark: | Not yet evaluated |
 | 10. | 19-03-2023 |Saurav Suman | InceptionResNetV2  | In Progress :white_check_mark: | Not yet evaluated |
 | 11. | 20-03-2023 |Parnika Damle | InceptionV3  | In Progress :white_check_mark: | Not yet evaluated |
-
+| 12. | 20-03-2023 |Abdul Rahman | DenseNET-264  | In Progress :white_check_mark: | Not yet evaluated |
 In case of any doubts please ask the task leader, ***Vishu Kalier***.
 
 
