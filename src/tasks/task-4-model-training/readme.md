@@ -17,7 +17,7 @@ and every model and then provide the best results possible.
 | 6. | 19-03-2023 | Qutaiba Ahmed Ansari | ResNet | In Progress :white_check_mark: | Not yet evaluated |
 | 7. | 19-03-2023 | Lee Galili | CNN | In Progress :white_check_mark: | Not yet evaluated |
 | 8. | 19-03-2023 |Reem Abdel-Salam | CNN MobilnetV3-ImageNet  | Done :white_check_mark: | 89% |
-| 9. | 19-03-2023 |Rishabh Sabharwal | Dense CNN and ResNet/XceptionNet  | In Progress :white_check_mark: | Not yet evaluated |
+| 9. | 19-03-2023 |Rishabh Sabharwal | Dense CNN and ResNet/XceptionNet  | In Progress :white_check_mark: | ResNet50 : 91% |
 | 10. | 19-03-2023 |Saurav Suman | InceptionResNetV2  | In Progress :white_check_mark: | Not yet evaluated |
 | 11. | 20-03-2023 |Parnika Damle | InceptionV3  | In Progress :white_check_mark: | Not yet evaluated |
 | 12. | 20-03-2023 |Abdul Rahman | DenseNET-264  | In Progress :white_check_mark: | Not yet evaluated |
