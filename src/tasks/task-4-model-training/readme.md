@@ -11,7 +11,7 @@ and every model and then provide the best results possible.
 |-|-|-|-|-|-|
 | 1. | 19-03-2023 | Vishu Kalier | esrgan-tf2 | In Progress :white_check_mark: | Not yet evaluated |
 | 2. | 19-03-2023 | Imane E. M.  | CNN EfficientNet | In Progress :white_check_mark: | Not yet evaluated |
-| 3. | 19-03-2023 | Mussie Berhane | CNN AlexNet | In Progress :white_check_mark: | Not yet evaluated |
+| 3. | 19-03-2023 | Mussie Berhane | CNN AlexNet | In Progress :white_check_mark: | 84% |
 | 4. | 18-03-2023 | Abdelrahman Youssry| EfficientNet & ImageNet| In Progress:white_check_mark: | Not yet evaluated |
 | 5. | 18-03-2023 | Akash Kundu | VGG & ImageNet | In Progress :white_check_mark: | Not yet evaluated |
 | 6. | 19-03-2023 | Qutaiba Ahmed Ansari | ResNet | In Progress :white_check_mark: | Not yet evaluated |
