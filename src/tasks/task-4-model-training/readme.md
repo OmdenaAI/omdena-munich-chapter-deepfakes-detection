@@ -13,7 +13,7 @@ and every model and then provide the best results possible.
 | 2. | 19-03-2023 | Imane E. M.  | CNN EfficientNet | In Progress :white_check_mark: | Not yet evaluated |
 | 3. | 19-03-2023 | Mussie Berhane | CNN AlexNet | Done :white_check_mark: | 84% |
 | 4. | 18-03-2023 | Abdelrahman Youssry| EfficientNet & ImageNet| In Progress:white_check_mark: | Not yet evaluated |
-| 5. | 18-03-2023 | Akash Kundu | VGG & ImageNet | In Progress :white_check_mark: | Not yet evaluated |
+| 5. | 18-03-2023 | Akash Kundu | MogaNetXtiny | Done :white_check_mark: | 85.8% |
 | 6. | 19-03-2023 | Qutaiba Ahmed Ansari | ResNet | In Progress :white_check_mark: | Not yet evaluated |
 | 7. | 19-03-2023 | Lee Galili | CNN | In Progress :white_check_mark: | Not yet evaluated |
 | 8. | 19-03-2023 |Reem Abdel-Salam | CNN MobilnetV3-ImageNet  | Done :white_check_mark: | 89% |
