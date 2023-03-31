@@ -23,6 +23,7 @@ and every model and then provide the best results possible.
 | 12. | 20-03-2023 |Abdul Rahman | DenseNET-264  | In Progress :white_check_mark: | Not yet evaluated |
 | 13. | 20-03-2023 |Reem Abdel-Salam | CNN ConvnextTiny-ImageNet  | Done :white_check_mark: | 97% |
 | 14. | 24-03-2023 |Abdelrahman Rabah | VGG19_BN  | Done :white_check_mark: | 80% Valid, 15000 Samples |
+| 15. | 31-03-2023 | Chirag Gautam | DenseNet121 | In Progress:white_check_mark: | Not yet evaluated |
 
 
 In case of any doubts please ask the task leader, ***Vishu Kalier***.
