@@ -24,8 +24,8 @@ and every model and then provide the best results possible.
 | 13. | 20-03-2023 |Reem Abdel-Salam | CNN ConvnextTiny-ImageNet  | Done :white_check_mark: | 97% |
 | 14. | 24-03-2023 |Abdelrahman Rabah | VGG19_BN  | Done :white_check_mark: | 80% Valid, 15000 Samples |
 | 15. | 31-03-2023 | Chirag Gautam | DenseNet121 | In Progress:white_check_mark: | Not yet evaluated |
-
-
+| 16. | 1-04-2023 | Abdelrahman Youssry| EfficientNetB7 & ImageNet| In Progress:white_check_mark: | 92.5% |
+| 17. | 1-04-2023 | Abdelrahman Youssry| VGG16 & ImageNet| In Progress:white_check_mark: | 93.5% |
 In case of any doubts please ask the task leader, ***Vishu Kalier***.
 
 
