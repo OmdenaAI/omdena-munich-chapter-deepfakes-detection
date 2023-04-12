@@ -14,7 +14,7 @@ and every model and then provide the best results possible.
 | 3. | 12-04-2023 |Abdelrahman Youssry | CNN VGG16-ImageNet  | Done :white_check_mark: | 77% |
 | 4. | 12-04-2023 |Abdelrahman Youssry | CNN EfficientNetB5-ImageNet  | Done :white_check_mark: | 76% |
 | 5. | 12-04-2023 |Abdelrahman Youssry | CNN EfficientNetB7-ImageNet  | Done :white_check_mark: | 74% |
-In case of any doubts please ask the task leader, ***Akash***.
+In case of any doubts please ask the task leader, ***Akash Kundu***.
 
 
 ## ${Task \space Leader}$
