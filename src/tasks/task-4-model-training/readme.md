@@ -14,7 +14,7 @@ and every model and then provide the best results possible.
 | 3. | 19-03-2023 | Mussie Berhane | CNN AlexNet | Done :white_check_mark: | 85% |
 | 4. | 18-03-2023 | Abdelrahman Youssry| EfficientNetB5 & ImageNet| In Progress:white_check_mark: | 90% |
 | 5. | 18-03-2023 | Akash Kundu | MogaNetXtiny | Done :white_check_mark: | 85.8% |
-| 6. | 19-03-2023 | Qutaiba Ahmed Ansari | ResNet | In Progress :white_check_mark: | Not yet evaluated |
+| 6. | 19-03-2023 | Qutaiba Ahmed Ansari | ResNet | Done :white_check_mark: | 92% |
 | 7. | 19-03-2023 | Lee Galili | CNN | In Progress :white_check_mark: | Not yet evaluated |
 | 8. | 19-03-2023 |Reem Abdel-Salam | CNN MobilnetV3-ImageNet  | Done :white_check_mark: | 89% |
 | 9. | 19-03-2023 |Rishabh Sabharwal | Dense CNN and ResNet/XceptionNet  | Done :white_check_mark: | ResNet50 : 91% |
