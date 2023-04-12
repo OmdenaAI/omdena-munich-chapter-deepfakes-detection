@@ -1,4 +1,4 @@
-## ${Task \space Model \space Testing}$
+## ${Model \space Testing}$
 
 Everyone, this folder will comprise of the ***codes and notebooks*** for the task-5-model testing and validation. The below table will comprise of the work and the models which everyone will
 be taking. So when you have started working on the model ***fill all the details in the table*** so that the comparison is clear and concise and everyone is able to compare each
