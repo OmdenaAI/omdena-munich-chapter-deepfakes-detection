@@ -63,8 +63,8 @@ HOMEPAGE_CHAPTERLEAD='''
 HOMEPAGE_PROJECTLEADS='''
 | Task Name | Active Members |
 |--|--|
-| Data Collection | - |
-| Data-Preprocessing | - |
+| Data Collection | abc, xyz |
+| Data-Preprocessing | xyz |
 | Data-Preprocessing and Cleaning | - |
 | Feature Extraction | - |
 | Model Training | - |
