@@ -64,7 +64,7 @@ HOMEPAGE_ACTIVE_MEMBERS='''
 | Task Name | Active Members |
 |--|--|
 | Data Collection | abc, xyz |
-| Data-Preprocessing and Cleaning | Rishabh Sabharwal |
+| Data-Preprocessing and Cleaning | Rishabh Sabharwal, Imane, Akash Kundu, Saurav Suman, Abdul Rahman, Abdelrahman Katkat, Abdelrahman Rabah |
 | Feature Extraction | - |
 | Model Training | - |
 | Model Testing and Validation | - |
