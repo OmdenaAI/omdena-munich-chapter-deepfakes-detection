@@ -60,11 +60,10 @@ HOMEPAGE_CHAPTERLEAD='''
 | Münich, Germany Chapter Leads | Imane |
 '''
 
-HOMEPAGE_PROJECTLEADS='''
+HOMEPAGE_ACTIVE_MEMBERS='''
 | Task Name | Active Members |
 |--|--|
 | Data Collection | abc, xyz |
-| Data-Preprocessing | xyz |
 | Data-Preprocessing and Cleaning | Rishabh Sabharwal |
 | Feature Extraction | - |
 | Model Training | - |
