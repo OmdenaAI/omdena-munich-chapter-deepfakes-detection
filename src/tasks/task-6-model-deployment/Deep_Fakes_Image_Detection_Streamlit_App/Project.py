@@ -65,7 +65,7 @@ HOMEPAGE_PROJECTLEADS='''
 |--|--|
 | Data Collection | abc, xyz |
 | Data-Preprocessing | xyz |
-| Data-Preprocessing and Cleaning | - |
+| Data-Preprocessing and Cleaning | Rishabh Sabharwal |
 | Feature Extraction | - |
 | Model Training | - |
 | Model Testing and Validation | - |
