@@ -84,4 +84,4 @@ with st.container():
     st.markdown("<br>", unsafe_allow_html=True)
     st.markdown(HOMEPAGE_CHAPTERLEAD, unsafe_allow_html=True)
     st.markdown("<br>", unsafe_allow_html=True)
-    st.markdown(HOMEPAGE_PROJECTLEADS, unsafe_allow_html=True)
+    st.markdown(HOMEPAGE_ACTIVE_MEMBERS, unsafe_allow_html=True)
