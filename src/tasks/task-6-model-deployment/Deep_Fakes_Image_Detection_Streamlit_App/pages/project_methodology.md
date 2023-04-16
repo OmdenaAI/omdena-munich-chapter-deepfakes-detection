@@ -85,7 +85,7 @@ The code, implementation and accuracy of every contributor is available on githu
 | Qutaiba Ahmed Ansari | ResNet  | 92% |
 | Reem Abdel-Salam | CNN MobilnetV3-ImageNet  | 89% |
 | Parnika Damle | volo(VOLO_d2)-ImageNet   | 96.52% |
-| Abdul Rahman | DenseNET-264  | In Progress | 
+| Abdul Rahman | DenseNET-264  | 50% | 
 | Reem Abdel-Salam | CNN ConvnextTiny-ImageNet  | 97% |
 | Abdelrahman Rabah | VGG19_BN   | 80%  |
 |  Abdelrahman Youssry| EfficientNetB7 & ImageNet| 92.5% |
