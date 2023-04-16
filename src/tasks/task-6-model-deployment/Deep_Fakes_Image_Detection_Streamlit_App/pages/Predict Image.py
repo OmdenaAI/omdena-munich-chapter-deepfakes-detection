@@ -84,4 +84,4 @@ else:
     image_np_array =imagepreprocessing(img_arr)
     predicted_labels = modelpredict(model, ModelLabelList, image_np_array)
     #st.header(f"The uploaded image is {predicted_labels}")
-    st.info(f"### The uploaded image is {predicted_labels}")
+    st.info(f"### The uploaded image is probably {predicted_labels}.")
