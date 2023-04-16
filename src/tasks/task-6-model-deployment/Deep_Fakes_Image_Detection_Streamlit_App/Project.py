@@ -64,10 +64,10 @@ HOMEPAGE_ACTIVE_MEMBERS='''
 | Task Name | Active Members |
 |--|--|
 | Data Collection | abc, xyz |
-| Data-Preprocessing and Cleaning | Rishabh Sabharwal, Imane, Akash Kundu, Saurav Suman, Abdul Rahman, Abdelrahman Katkat, Abdelrahman Rabah |
+| Data-Preprocessing and Cleaning | Rishabh Sabharwal, Imane E. M., Akash Kundu, Saurav Suman, Abdul Rahman, Abdelrahman Katkat, Abdelrahman Rabah |
 | Feature Extraction | - |
-| Model Training | - |
-| Model Testing and Validation | Akash Kundu, Reem Abdel-Salam, Parnika Damle, Abdelrahman Katkat, Qutaiba Ansari |
+| Model Training | Vishu Kalier, Imane E. M., Mussie Berhane, Abdelrahman Youssry, Reem Abdel-Salam, Parnika Damle, Qutaiba Ahmed Ansari, Akash Kundu, Abdul Rahman, Rishabh Sabharwal |
+| Model Testing and Validation | Akash Kundu, Reem Abdel-Salam, Parnika Damle, Abdelrahman Katkat, Qutaiba Ahmed Ansari |
 | Model Deployment | - |
 '''
 
