@@ -1,4 +1,4 @@
 streamlit
-opencv
+opencv-python-headless
 tensorflow
 keras-cv-attention-models
