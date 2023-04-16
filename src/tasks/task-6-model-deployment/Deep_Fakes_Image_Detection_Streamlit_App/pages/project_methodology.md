@@ -36,6 +36,7 @@ A detailed description of the obtained images is given below:
 |AttGAN|1000|256 × 256|CelebA images were manipulated|
 |StyleGAN|1000|1024 × 1024|Images generated using FFHQ as the input dataset|
 |StyleGAN2|1000|1024 × 1024|Images generated using FFHQ as the input dataset|
+
 **![](https://lh5.googleusercontent.com/PEu92UV3IBCDfSk1goKbFZhUTTjWepVb6M5UeYPYYXmXgeDxV4fdl2T0UfEMUB3KRdyrw_yz3IKQMrZLndxm4FVgOoNWQRMrt_oQbDEGuuDaQQfBEMRwDqaa2NlZcI3I6G_QLhrfBFo)**
 
 # Data Preprocessing
