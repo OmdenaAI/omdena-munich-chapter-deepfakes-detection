@@ -76,9 +76,9 @@ The code, implementation and accuracy of every contributor is available on githu
 ## Fully Created Models
 
 | ***Contributor Name*** | ***Model Name*** | ***Accuracy*** |
-|-|-|-|-|-|-|
+|-|-|-|
 | Vishu Kalier | esrgan-tf2  | 83 % |
-| Imane E. M.  | CNN EfficientNet | Not yet evaluated |
+| Imane E. M.  | CNN EfficientNet | 50% |
 | Mussie Berhane | CNN AlexNet | 85% |
 | Abdelrahman Youssry| EfficientNetB5 & ImageNet|  90% |
 | Akash Kundu | MogaNetXtiny  | 85.8% |
