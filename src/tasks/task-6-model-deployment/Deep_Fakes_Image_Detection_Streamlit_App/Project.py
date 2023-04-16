@@ -67,7 +67,7 @@ HOMEPAGE_ACTIVE_MEMBERS='''
 | Data-Preprocessing and Cleaning | Rishabh Sabharwal, Imane, Akash Kundu, Saurav Suman, Abdul Rahman, Abdelrahman Katkat, Abdelrahman Rabah |
 | Feature Extraction | - |
 | Model Training | - |
-| Model Testing and Validation | - |
+| Model Testing and Validation | Akash Kundu, Reem Abdel-Salam, Parnika Damle, Abdelrahman Katkat, Qutaiba Ansari |
 | Model Deployment | - |
 '''
 
