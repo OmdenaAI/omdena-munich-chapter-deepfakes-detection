@@ -79,6 +79,7 @@ The code, implementation and accuracy of every contributor is available on githu
 |-|-|-|
 | Vishu Kalier | esrgan-tf2  | 83 % |
 | Mussie Berhane | CNN AlexNet | 85% |
+| Rishabh Sabharwal | Dense CNN | 91.78% |
 | Abdelrahman Youssry| EfficientNetB5 & ImageNet|  90% |
 | Akash Kundu | MogaNetXtiny  | 85.8% |
 | Qutaiba Ahmed Ansari | ResNet  | 92% |
@@ -99,9 +100,12 @@ After completion of the model training, we conducted validation and testing of t
 
 | Model Name | Accuracy | Precision | Recall | F1 Score | Tested By |
 |-|-|-|-|-|-|
-|**ResNet50**|65%||||**Qutaiba Ansari**|
+|**Dense CNN**|63%||||**Rishabh Sabharwal**|
 |Deepfake||0.71|0.86|0.78||
 |Real||0.27|0.14|0.18||
+|**ResNet50**|65%||||**Qutaiba Ahmed Ansari**|
+|Deepfake||0.74|0.73|0.74||
+|Real||0.35|0.36|0.35||
 |**EfficientNetB7**|73%||||**Abdelrahman Youssry**|
 |Deepfake||0.83|0.77|0.80||
 |Real||0.52|0.60|0.56||
