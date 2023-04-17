@@ -41,9 +41,12 @@ The pre-processing steps taken were:
 6.  Changing the brightness, saturation, hue and contrast    
 7.  Shear shift, zooming, height and width shift
     
-We decided to work with (160,160) sized images because many online platforms downsize the images to reduce memory consumption, hence our model is compatible with smaller and low quality images that further increases its robustness.
 Proper care was taken to not augment images to an extent such that it degrades the quality of our dataset.
 The original dataset had 10K real images and 5K deepfake images. To maintain the balance between the classes, we decided to augment 30K real images and 30K deepfake images. Dataset was split according to the following ratio - 80% for train, 10% for validation and 10% for the test set. Due care was given to balance each of these datasets, hence out of 24K train images, we had 12K real and 12K deepfake images. Similar approach was used for both validation and test set. We decided to work in two teams, one team would augment the images with albumentations library and the other team would work with keras library. Within each team, the work was further divided such that each person worked on utmost 2 folders and everyone used their own augmentation pipeline thereby increasing the variation in the augmented images. Each team generated a total of 60K images, thus at the end of pre-processing, we had a total of 120K images, divided as two separate sets with an aim to train our model on both the sets to improve its generalizability.
+**Some augmented real images:**
+**![](https://lh4.googleusercontent.com/9HyzBzAa0aEJWkfVIsKUGMd2vVNoHUgBFrcsJ3-r8CI6exL1qvp1gaMj-51gjyD0YWRrUHqosTlblSxSFKggQNJUqvc4K3JYvt27LjZRh1UqWMpgqDsdvRirniMFf5O_vY8hC4ZY8nc)**
+**Some augmented deepfake images:**
+**![](https://lh5.googleusercontent.com/Rsf0DRWiBMQGsXY3eipvgnG2wgZ3lF1zr5NHgNDSMByBddOIKj8ZMI5EsqVKJ4-uKe9sqWZtwoEMlisY4ElHwMAI2MPj2J6trTv69x71MoaqtIRTER-_9vvCsPopGjeOLqB_Kt6K4fw)**
 
 # Feature Extraction
 In this Project we performed the Feature Extraction on the data pre-processed Images to extract the relevant features for training of the model. We applied many process and extraction kernels and filters like blur, gray-scale, contrast, etc.
