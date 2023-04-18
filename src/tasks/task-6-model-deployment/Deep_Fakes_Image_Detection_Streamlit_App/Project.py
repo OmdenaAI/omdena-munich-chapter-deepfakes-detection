@@ -57,18 +57,18 @@ The goal of this project is to develop a deep learning model for detecting forge
 HOMEPAGE_CHAPTERLEAD='''
 | Chapter Name | Lead Name |
 |--|--|
-| Münich, Germany Chapter Leads | Imane |
+| Münich, Germany Chapter Leads | Imane El Maakoul |
 '''
 
 HOMEPAGE_ACTIVE_MEMBERS='''
 | Task Name | Active Members |
 |--|--|
 | Data Collection | Parnika Damle, Mussie Berhane, Abdelrahman Katkat, Akash Kundu, Kevin Medri, Vinod Cherian, Mussie Berhane, Abdelrahman Youssry, Qutaiba Ahmed Ansari, Melih yazgan, Saurabh Zinjad  |
-| Data-Preprocessing and Cleaning | Rishabh Sabharwal, Imane E. M., Akash Kundu, Saurav Suman, Abdul Rahman, Abdelrahman Katkat, Abdelrahman Rabah |
-| Feature Extraction | - |
-| Model Training | Vishu Kalier, Imane E. M., Mussie Berhane, Abdelrahman Youssry, Reem Abdel-Salam, Parnika Damle, Qutaiba Ahmed Ansari, Akash Kundu, Abdul Rahman, Rishabh Sabharwal |
-| Model Testing and Validation | Akash Kundu, Reem Abdel-Salam, Parnika Damle, Abdelrahman Katkat, Qutaiba Ahmed Ansari |
-| Model Deployment | Vinod, Akash Kundu |
+| Data-Preprocessing and Cleaning | Rishabh Sabharwal, Imane El Maakoul, Akash Kundu, Saurav Suman, Abdul Rahman, Abdelrahman Youssry, Abdelrahman Rabah |
+| Feature Extraction | Vishu Kalier, Imane El Maakoul, Mussie Berhane, Abdelrahman Youssry, Reem Abdel-Salam, Parnika Damle, Qutaiba Ahmed Ansari, Akash Kundu, Abdul Rahman, Rishabh Sabharwal |
+| Model Training | Vishu Kalier, Imane El Maakoul, Mussie Berhane, Abdelrahman Youssry, Reem Abdel-Salam, Parnika Damle, Qutaiba Ahmed Ansari, Akash Kundu, Abdul Rahman, Rishabh Sabharwal |
+| Model Testing and Validation | Akash Kundu, Reem Abdel-Salam, Parnika Damle, Abdelrahman Youssry, Qutaiba Ahmed Ansari |
+| Model Deployment | Vinod, Akash Kundu, Abdelrahman Youssry |
 '''
 
 with st.container():
