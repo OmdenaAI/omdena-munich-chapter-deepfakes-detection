@@ -63,7 +63,7 @@ HOMEPAGE_CHAPTERLEAD='''
 HOMEPAGE_ACTIVE_MEMBERS='''
 | Task Name | Active Members |
 |--|--|
-| Data Collection | Parnika Damle, Mussie Berhane, Abdelrahman Katkat, Akash Kundu, Kevin Medri, Vinod Cherian, Mussie Berhane, Abdelrahman Youssry, Qutaiba Ahmed Ansari, Melih yazgan, Saurabh Zinjad  |
+| Data Collection | Parnika Damle, Mussie Berhane, Akash Kundu, Kevin Medri, Vinod Cherian, Mussie Berhane, Abdelrahman Youssry, Qutaiba Ahmed Ansari, Melih yazgan, Saurabh Zinjad  |
 | Data-Preprocessing and Cleaning | Rishabh Sabharwal, Imane El Maakoul, Akash Kundu, Saurav Suman, Abdul Rahman, Abdelrahman Youssry, Abdelrahman Rabah |
 | Feature Extraction | Vishu Kalier, Imane El Maakoul, Mussie Berhane, Abdelrahman Youssry, Reem Abdel-Salam, Parnika Damle, Qutaiba Ahmed Ansari, Akash Kundu, Abdul Rahman, Rishabh Sabharwal |
 | Model Training | Vishu Kalier, Imane El Maakoul, Mussie Berhane, Abdelrahman Youssry, Reem Abdel-Salam, Parnika Damle, Qutaiba Ahmed Ansari, Akash Kundu, Abdul Rahman, Rishabh Sabharwal |
