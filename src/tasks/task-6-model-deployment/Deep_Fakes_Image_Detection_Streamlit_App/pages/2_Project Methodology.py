@@ -1,6 +1,6 @@
 import streamlit as st
 import streamlit.components.v1 as components
-import Base64_Image_utils
+from Base64_Image_utils import get_task_summary_image,get_annotated_confusion_matrix,get_collage_real_image,get_collage_deepfake_image
 
 PAGE_HEADER_TEXT="""
 # Project Methodology
@@ -177,20 +177,20 @@ components.html(PAGE_DIAGRAM_TEXT)
 st.markdown("<br>", unsafe_allow_html=True)
 st.markdown(PAGE_DATA_COLLECTION_HEADER_TEXT, unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
-st.image(Base64_Image_utils.base64toimageobj(Base64_Image_utils.task_summary),width=900)
+st.image(get_task_summary_image(),width=900)
 st.markdown("<br>", unsafe_allow_html=True)
 st.markdown(PAGE_DATA_PREPROCESSING_TEXT, unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 st.markdown(PAGE_REAL_IMAGE_TEXT, unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
-st.image(Base64_Image_utils.base64toimageobj(Base64_Image_utils.Collage_Real_Image),width=900)
+st.image(get_collage_real_image(),width=900)
 st.markdown("<br>", unsafe_allow_html=True)
 st.markdown(PAGE_DEEPFAKE_IMAGE_TEXT, unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
-st.image(Base64_Image_utils.base64toimageobj(Base64_Image_utils.Collage_DeepFake_Image),width=900)
+st.image(get_collage_deepfake_image(),width=900)
 st.markdown("<br>", unsafe_allow_html=True)
 st.markdown(PAGE_FEATURE_EXTRACTION_TEXT, unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 st.markdown(PAGE_FINAL_MODEL_EVALUATION_MATRIX_TEXT, unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
-st.image(Base64_Image_utils.base64toimageobj(Base64_Image_utils.annotated_confusion_matrix))
+st.image(get_annotated_confusion_matrix())
