@@ -4,6 +4,7 @@ The classification matrix of our proposed MobileNetV3 model was compared with th
 The results are as follows:
 
 | a) VisionLabs | Precision | Recall | F1 Score |
+|-|-|-|-|
 | Real | 0.89 | 0.88 | 0.89 |
 | Deepfake | 0.95 | 0.96 | 0.96 |
 | Accuracy | | | 0.94 |
