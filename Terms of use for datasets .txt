@@ -1,0 +1,5 @@
+# ${Omdena \space Munich \space Chapter}$
+
+# ${Terms \space of \space use \space for \space datasets}$
+
+- The datasets employed in this work are publicly available at: https://iplab.dmi.unict.it/deepfakechallenge/, accessed on 8 March 2023.
