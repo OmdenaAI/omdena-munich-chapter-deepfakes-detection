@@ -9,6 +9,10 @@ st.set_page_config(
 )
 
 HEADER_STYLE=f"""<style>
+	    [data-testid="stToolbar"]{{
+	    visibility: hidden;
+	    top: -50px;
+	    }}
             [data-testid="stImage"]{{
             height: 300px;
             width: 300px;

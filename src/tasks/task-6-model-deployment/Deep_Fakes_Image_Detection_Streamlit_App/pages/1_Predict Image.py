@@ -77,9 +77,17 @@ def get_model(path):
     model.compile()
     return model
 
+HEADER_STYLE="""<style>
+	    [data-testid="stToolbar"]{
+	    visibility: hidden;
+	    top: -50px;
+	    }
+        </style>
+    """
 
 model = get_model(os.path.abspath(MODEL_PATH))
 ModelLabelList= load_labels()
+st.markdown(HEADER_STYLE, unsafe_allow_html=True) 
 st.title(f"Upload a color image to detect if its fake or real")
 image_file = st.file_uploader("", type=ALLOWED_EXTENSIONS)
 st.set_option('deprecation.showfileUploaderEncoding', False)

@@ -1,6 +1,6 @@
 import streamlit as st
 import streamlit.components.v1 as components
-from Base64_Image_utils import get_task_summary_image,get_annotated_confusion_matrix,get_collage_real_image,get_collage_deepfake_image
+from Base64_Image_utils import get_annotated_confusion_matrix,get_collage_real_image,get_collage_deepfake_image
 
 PAGE_HEADER_TEXT="""
 # Project Methodology
@@ -171,6 +171,15 @@ PAGE_DIAGRAM_TEXT=f"""
         </script>
         """
 
+HEADER_STYLE="""<style>
+	    [data-testid="stToolbar"]{
+	    visibility: hidden;
+	    top: -50px;
+	    }
+        </style>
+    """
+
+st.markdown(HEADER_STYLE, unsafe_allow_html=True) 
 st.markdown(PAGE_HEADER_TEXT, unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 components.html(PAGE_DIAGRAM_TEXT)
