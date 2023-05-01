@@ -1,18 +1,20 @@
-# ${Omdena \space Munich \space Chapter}$
-Use this Repository as a template for creating Local Chapter Repositories
+# ${Omdena \space Munich \space Deepfake \space Image \space Detection}$
 
 
-# ${Deep \space Fakes \space Image \space Detection}$
+## ${Problem \space Statement}$
+Deepfake generators have been able to produce imitations almost undetectable through human inspection. Per se, Deepfake detection is one of the notable challenges of digital forensics and media security. They can be used for:
+
+* Spreading false information and manipulating public opinion.
+* Defaming, harassing, or blackmailing individuals.
+* Damaging the credibility of media information and undermining trust.
+* Spreading fake news, making political propaganda, and manipulating elections. An artificial intelligence (AI) solution can help identify Deepfake images with accuracy and precision.
 
 
-## ${Contribution \space Guidelines}$
-- Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
-- If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
-    - Task Folder Naming Convention : _task-n-taskname.(n is the task number)_  ex: task-1-data-analysis, task-2-model-deployment etc.
-    - Create a README.md with a table containing information table about all contributions for the task.
-- If you're contributing for a task, please make sure to store in relavant location and update the README.md information table with your contribution details.
-- Make sure your File names(jupyter notebooks, python files, data sheet file names etc) has proper naming to help others in easily identifing them.
-- Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion. 
+## ${Project \space Goal}$
+The goal of this project is to develop a deep learning model for classifying facial images with a high accuracy (95%).
+
+## ${Project \space API}$
+The model has been deployed to the following endpoint: https://vinodcherian-deepfake-detection-project-ycmbu6.streamlit.app/Predict_Image
 
 ## ${Project \space Structure}$
 
