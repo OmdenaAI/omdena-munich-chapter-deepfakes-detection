@@ -14,7 +14,7 @@ Deepfake generators have been able to produce imitations almost undetectable thr
 The goal of this project is to develop a deep learning model for classifying facial images with a high accuracy (95%).
 
 ## ${Project \space API}$
-The model has been deployed to the following endpoint: https://vinodcherian-deepfake-detection-project-ycmbu6.streamlit.app/Predict_Image
+The best performing model (81% accuracy) has been deployed to the following endpoint: https://vinodcherian-deepfake-detection-project-ycmbu6.streamlit.app/Predict_Image
 
 ## ${Project \space Structure}$
 
