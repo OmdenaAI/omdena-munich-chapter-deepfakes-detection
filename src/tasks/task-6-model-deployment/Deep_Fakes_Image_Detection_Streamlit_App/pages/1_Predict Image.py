@@ -94,7 +94,7 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 st.warning(WARNING_MESSAGE, icon="⚠️")
 if image_file is not None:
     imageobj=Image.open(image_file)
-    st.image(imageobj)
+    st.image(imageobj, width=450)
     img_arr = np.array(imageobj) 
     image_np_array =imagepreprocessing(img_arr)
     predicted_labels = modelpredict(model, ModelLabelList, image_np_array)
