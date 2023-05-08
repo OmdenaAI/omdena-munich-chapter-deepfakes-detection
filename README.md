@@ -15,6 +15,7 @@ The goal of this project is to develop a deep learning model for classifying fac
 
 ## ${Project \space API}$
 The best performing model (81% accuracy) has been deployed to the following endpoint: 
+
 https://deepfake-detection.streamlit.app/Predict_Image
 
 ## ${Project \space Structure}$
