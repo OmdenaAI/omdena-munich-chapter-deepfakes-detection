@@ -1,6 +1,6 @@
 # ${Omdena \space Munich \space Deepfake \space Image \space Detection}$
 
-UPDATE: The project has been successfully completed. The linked to the deployed website and the project demonstration are attached below.
+UPDATE: The project has been successfully completed. The links to the deployed website and the project demonstration are attached below.
 
 * [Website](https://akash190104-deepfake-detection-project-hy3yyw.streamlit.app/)
 * [Demonstration](https://youtu.be/wyHJPyHvYSg)
